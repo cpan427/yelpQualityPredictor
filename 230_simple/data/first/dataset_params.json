@@ -1,0 +1,10 @@
+{
+    "vocab_size": 44701, 
+    "num_oov_buckets": 1, 
+    "pad_tag": "O", 
+    "train_size": 5000, 
+    "pad_word": "<pad>", 
+    "number_of_tags": 3, 
+    "test_size": 1000, 
+    "dev_size": 1000
+}
